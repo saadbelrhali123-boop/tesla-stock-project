@@ -1,0 +1,1 @@
+SELECT * FROM Tesla_Summary_Dashboard LIMIT 10;
